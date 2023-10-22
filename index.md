@@ -36,3 +36,8 @@ backward(200)
 end_fill()
 done()
 ```
+
+
+- [ ] Turn on GitHub Pages
+- [X] Ourline my portafolio
+- [ ] Introduce myself to the world
